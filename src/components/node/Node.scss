@@ -1,0 +1,42 @@
+.node {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  border: 3px solid black;
+  margin: 10px;
+
+  &__title {
+    margin: 0;
+  }
+
+  &::before {
+    content: " hi";
+    color: transparent;
+    background-color: black;
+    width: 100%;
+    height: 3px;
+
+    display: block;
+    position: absolute;
+    left: -20px;
+    top: 40px;
+    z-index: -1;
+  }
+  &::after {
+    content: " hi";
+    background-color: black;
+    color: transparent;
+
+    width: 3px;
+    height: 1000vh;
+    z-index: -1;
+    display: block;
+    position: absolute;
+    left: -21px;
+    top: -74px;
+  }
+}
