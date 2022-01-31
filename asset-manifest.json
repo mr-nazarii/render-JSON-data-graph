@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/render-JSON-data-graph/static/css/main.92404f9b.css",
+    "main.js": "/render-JSON-data-graph/static/js/main.1108fd0f.js",
+    "index.html": "/render-JSON-data-graph/index.html",
+    "main.92404f9b.css.map": "/render-JSON-data-graph/static/css/main.92404f9b.css.map",
+    "main.1108fd0f.js.map": "/render-JSON-data-graph/static/js/main.1108fd0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92404f9b.css",
+    "static/js/main.1108fd0f.js"
+  ]
+}

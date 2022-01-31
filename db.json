@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "name": "Europe",
+      "children": [
+        {
+          "name": "East",
+          "children": [
+            {
+              "name": "Ukraine"
+            },
+            {
+              "name": "Poland"
+            },
+            {
+              "name": "Estonia"
+            }
+          ]
+        },
+        {
+          "name": "West",
+          "children": [
+            {
+              "name": "Germany"
+            },
+            {
+              "name": "France"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "North America",
+      "children": [
+        {
+          "name": "USA"
+        }
+      ]
+    }
+  ]
+}
